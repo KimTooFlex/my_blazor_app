@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8F2065iee4QRXiCkATY4CccqugeJUc3NlK01Uj_VM6U=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorTimCorey.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorTimCorey.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IhNUZFcwV6DUwqvdVFAhlxA1w99qPFNcB2qgyDwvVtU=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\S-b95VdxsSvVojQkw2T86X727ZH5uwWWVQLOHMGk0j0=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\t2qMijIS4ntOaBnyh7WrBoNuywCsncDaa5MnV6mSZKg=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QCX1Q7M6vyC3GaNGK0d8qaNghLUKdetq8OWiKZ-tHn0=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wIB2vcC9TeYaQWwHhI0meBEZpDsC6Ny7oGz0w2I-yQw=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YcQooQuDMnS9cX4kkHCTA4ulWNsJ9KrlIIPK6HOy6fI=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\p32Cra6n30DyVNzPp0Js9B298vi8Az02XOHU376i0QE=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fMhqwfHi99A3wWo96aaHgbJgDf7eIv2lk2f2-akldMU=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\0hWPHy1YMxyy2hel15KhmGIlmgfB-i6LkB9d7gsqbAE=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wLC-UscJ-pP_tamkcEHLivB6A2ylvif1hlQdMjdzQdw=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_lbEdxXAZ4Ag3XrIvlNywEtvCXvMY3Q6iShNsD8HV_I=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mlZ5tu_DLJBF0xvWR96nscd2OkF0XrLh3XNE1QLftaY=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\i82oZXwU8_RNKIWLHZWOnVA-HF25w4fTsBj9TgPNHyc=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hsdZdYdomcyTYKEGscxmyWmkxMRD0Glh63_Zu-oylAs=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZFBkGaLIyNO2Nk1pb94igPAeyJ4fV0K8DDoffE_BeFg=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\m_8tNHrb-rDcdRD7GBjqZofkjgMRcj8qziew0Rz7Axk=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xw1QPexbq-wj9YPumAUnlZh-ftop0i55Y_5H4q17tWQ=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bjqOZVwFUqz7bLABRiCK3GAzvnRAueCfCVuy6cFZBWg=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2M3yQQI4D9XnFRlGgIiQ_dq_3skZGWuh7EICZCllbp4=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jJir8K6QXYdhpV-gfghmQ2U1ZWpNWuQ3G2TjXBRCpUA=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QmC0Pp8h3UicQXyF5aNqjKQokQyQoo1FOcJIaR3j5R8=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NLfdKdGz5KCQk0eOXHYaHPSlPhDIWgtS9EoPeCDEcaA=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NWIAKqLSNMBmuOsIT5UzoDOuUKdJcyzz_v6ozjoFkY0=.hash",
+      "Source": "C:\\Users\\KIM TOO FLEX\\source\\repos\\BlazorTimCorey\\BlazorTimCorey\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    }
+  ]
+}
